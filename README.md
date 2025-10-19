@@ -41,7 +41,7 @@ UMGrow hadir sebagai solusi untuk:
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 - **Frontend:** HTML, CSS (Tailwind / Bootstrap), Blade Template Engine  
 - **Backend:** Laravel (PHP Framework)  
 - **Database:** MySQL  
