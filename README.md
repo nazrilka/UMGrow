@@ -52,7 +52,7 @@ UMGrow hadir sebagai solusi untuk:
 
 ---
 
-## ✨ Main Features
+## Main Features
 1. **User Authentication & Profiles**  
    - Registrasi, login, dan manajemen profil UMKM.  
 
