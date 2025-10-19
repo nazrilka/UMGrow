@@ -3,7 +3,7 @@
 <img src="gambar_ERD/ERD.jpg" alt="ERD UMGrow" width="700"/>
 
 
-| Hubungan                                      | Tipe Relasi   | Deskripsi                                        |
+| Hubungan                                      | Tipe Relasi   | Deskripsi        2                                |
 | --------------------------------------------- | ------------- | ------------------------------------------------ |
 | users → umkm                                  | 1 : 1         | Satu user hanya bisa memiliki satu UMKM          |
 | umkm → product                                | 1 : N         | Satu UMKM punya banyak produk                    |
